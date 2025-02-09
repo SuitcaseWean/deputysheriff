@@ -1,4 +1,5 @@
-module deputy-sheriff
+module deputysheriff
+
 go 1.23.5
 
 require (
